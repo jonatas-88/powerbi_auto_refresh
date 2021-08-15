@@ -1,0 +1,22 @@
+
+#artifactContentList > div.cdk-virtual-scroll-content-wrapper > div:nth-child(1)
+#artifactContentList > div.cdk-virtual-scroll-content-wrapper > div:nth-child(2)
+
+
+/html/body/div[1]/root/mat-sidenav-container/mat-sidenav-content/div/div/workspace-view-header/workspace-proxy/fluent-workspace/mat-sidenav-container/mat-sidenav-content/fluent-workspace-table/fluent-list-table-base/cdk-virtual-scroll-viewport/div[1]/div[2]
+
+#artifactContentList > div.cdk-virtual-scroll-content-wrapper > div:nth-child(2) > div:nth-child(2) > span > button:nth-child(2)
+#artifactContentList > div.cdk-virtual-scroll-content-wrapper > div:nth-child(2) > div:nth-child(2) > span > button:nth-child(2)
+#artifactContentList > div.cdk-virtual-scroll-content-wrapper > div > div:nth-child(2) > span > button:nth-child(2)
+
+<button>  title="Atualizar agora"
+
+//*[@id="artifactContentList"]/div[1]/div[2]/div[2]/span/button[1]
+
+#artifactContentList > div.cdk-virtual-scroll-content-wrapper > div:nth-child(2) > div:nth-child(2) > span > button:nth-child(2) > mat-icon
+
+
+
+//*[@id="artifactContentList"]/div[1]/div[1]
+//*[@id="artifactContentList"]/div[1]/div[2]
+//*[@id="artifactContentList"]/div[1]/div

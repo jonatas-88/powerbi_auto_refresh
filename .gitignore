@@ -1,3 +1,8 @@
+#files and folders
+powerbi_workspace_auto_refresh.ini
+powerbi_workspace_auto_refresh.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
