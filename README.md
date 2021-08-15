@@ -10,8 +10,6 @@ For webscraping it was used Selenium package with Edge driver (https://developer
 
 Before run this script:
 
--Install packges below:
-pip install configparser
-pip install selenium
+-Install packges below: pip install configparser selenium
 
 -Rename the file "sample.powerbi_workspace_auto_refresh.ini" to "powerbi_workspace_auto_refresh.ini" and change configuration according to your settings.
